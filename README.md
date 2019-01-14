@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Linux Notes
 This block note is about my Linux knowledge. It is intended for personal use only.
 
@@ -27,3 +28,7 @@ This block note is about my Linux knowledge. It is intended for personal use onl
 22. [Network Namespaces](./content/network-namespaces.md)
 23. [Clustering Basics](./content/cluster-basics.md)
 24. [Advanced Clustering](./content/cluster-adv.md)
+=======
+# Linux_Note
+Forked form @kalise
+>>>>>>> f31a29dc3581155f130785bd26e8ce27a027073d
