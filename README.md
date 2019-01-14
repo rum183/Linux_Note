@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 ## Linux Notes
-This block note is about my Linux knowledge. It is intended for personal use only.
+This block note is about my Linux knowledge. It is intended for personal use only
 
 ### Summary
 1. [Basic Commands](./content/basic_commands.md)
